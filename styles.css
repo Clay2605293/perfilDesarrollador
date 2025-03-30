@@ -121,6 +121,7 @@ body {
   
   
   .skills {
+    margin-left: 3%;
     display: flex;
     padding: 4rem 2rem;
     color: #e0e0e0;
@@ -191,6 +192,7 @@ body {
     color: #ccc;
     font-size: 5rem;
     text-align: center;
+    line-height: 1.3em;
   }
 
   .answerQuestion{
